@@ -68,7 +68,7 @@ else --default english
                               }
 
    msg_lore["Empire"] =       {"Things are getting worse by the cycle. What happened to the Empire? We used to be the lords and masters over the whole galaxy!",
-                               "Did you know that House Za'lek was originally a Great Project initiated by the Empire? Well, now you do! There was also a Project Proteron, but that didn't go so well.",
+                               "Did you know that House Za'lek was originally a Great Project initiated by the Empire? There was also a Project Proteron, but that didn't go so well.",
                                "The Emperor lives on a giant supercruiser in Gamma Polaris. It's said to be the biggest ship in the galaxy! I totally want one.",
                                "I'm still waiting for my pilot license application to get through. Oh well, it's only been half a cycle, I just have to be patient.",
                                "Between you and me, the laws the Council passes can get really ridiculous! Most planets find creative ways of ignoring them...",
@@ -131,7 +131,7 @@ else --default english
                                "Did you know that if a planet doesn't like you, you can often bribe the spaceport operators and land anyway? Just hail the planet with " .. tutGetKey("hail") .. ", and click the bribe button! Careful though, it doesn't always work.",
                                "Many factions offer rehabilitation programs to criminals through the mission computer, giving them a chance to get back into their good graces. It can get really expensive for serious offenders though!",
                                "These new-fangled missile systems! You can't even fire them unless you get a target lock first! But the same thing goes for your opponents. You can actually make it harder for them to lock on to your ship by equipping scramblers or jammers. Scout class ships are also harder to target.",
-                               "Your equipment travels with you from planet to planet, but your ships don't! Nobody knows why, it's just life, I guess.",
+                               "Your equipment travels with you between planets, but your ships don't! Nobody knows why, that's just life I guess.",
                                "You know how you can't change your ship or your equipment on some planets? Well, it seems you need an outfitter to change equipment, and a shipyard to change ships! Bet you didn't know that.",
                                "Are you buying missiles? You can hold down \027bctrl\0270 to buy 5 of them at a time, and \027bshift\0270 to buy 10. And if you press them both at once, you can buy 50 at a time! It actually works for everything, but why would you want to buy 50 laser cannons?",
                                "If you're on a mission you just can't beat, you can open the information panel and abort the mission. There's no penalty for doing it, so don't hesitate to try the mission again later.",

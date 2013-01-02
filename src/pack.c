@@ -864,7 +864,7 @@ void* pack_readfile( const char* packfile, const char* filename, uint32_t *files
  *
  * Each name must be freed individually afterwards and the array of names too.
  *
- *    @param packfile Packfile to query it's internal files.
+ *    @param packfile Packfile to query its internal files.
  *    @param nfiles Stores the amount of files in packfile.
  *    @return An array of filenames in packfile.
  */

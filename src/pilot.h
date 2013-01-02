@@ -95,7 +95,7 @@ enum {
    PILOT_HYP_END,      /**< Pilot is exiting hyperspace. */
    PILOT_BOARDED,      /**< Pilot has been boarded already. */
    PILOT_NOBOARD,      /**< Pilot can't be boarded. */
-   PILOT_BOARDING,     /**< Pilot is currently boarding it's target. */
+   PILOT_BOARDING,     /**< Pilot is currently boarding its target. */
    PILOT_BRIBED,       /**< Pilot has been bribed already. */
    PILOT_DISTRESSED,   /**< Pilot has distressed once already. */
    PILOT_REFUELING,    /**< Pilot is trying to refueling. */
@@ -105,7 +105,7 @@ enum {
    PILOT_TAKEOFF,      /**< Pilot is taking off. */
    PILOT_DISABLED,     /**< Pilot is disabled. */
    PILOT_DISABLED_PERM, /**< Pilot is permanently disabled. */
-   PILOT_DEAD,         /**< Pilot is in it's dying throes */
+   PILOT_DEAD,         /**< Pilot is in their dying throes */
    PILOT_DEATH_SOUND,  /**< Pilot just did death explosion. */
    PILOT_EXPLODED,     /**< Pilot did final death explosion. */
    PILOT_DELETE,       /**< Pilot will get deleted asap. */
@@ -236,8 +236,8 @@ typedef struct PilotHook_ {
  */
 typedef enum EscortType_e {
    ESCORT_TYPE_NULL,       /**< Invalid escort type. */
-   ESCORT_TYPE_BAY,        /**< Escort is from a fighter bay, controllable by it's parent and can dock. */
-   ESCORT_TYPE_MERCENARY,  /**< Escort is a mercenary, controllable by it's parent. */
+   ESCORT_TYPE_BAY,        /**< Escort is from a fighter bay, controllable by its parent and can dock. */
+   ESCORT_TYPE_MERCENARY,  /**< Escort is a mercenary, controllable by its parent. */
    ESCORT_TYPE_ALLY        /**< Escort is an ally, uncontrollable. */
 } EscortType_t;
 

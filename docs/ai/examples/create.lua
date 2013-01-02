@@ -1,5 +1,5 @@
 --[[
--- Gives the pilot it's initial stuff, money and loot generally
+-- Gives the pilot their initial stuff, money and loot generally
 --]]
 function create ()
    ai.setcredits( ai.rnd(200, ai.shipprice()/100) )

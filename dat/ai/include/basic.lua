@@ -145,7 +145,7 @@ end
 
 
 --[[
--- Follows it's target.
+-- Follows its target.
 --]]
 function follow ()
    local target = ai.target()

@@ -614,7 +614,7 @@ static int hook_safe( lua_State *L )
  *    <li> "land" : triggered when pilot is landing (right when starting land descent).</li>
  *    <li> "attacked" : triggered when the pilot is attacked. </li>
  *    <li> "idle" : triggered when the pilot becomes idle in manual control.</li>
- *    <li> "lockon" : triggered when the pilot locked on a missile on it's target.</li>
+ *    <li> "lockon" : triggered when the pilot locked on a missile on its target.</li>
  * </ul>
  * <br />
  * If you pass nil as pilot, it will set it as a global hook that will jump for all pilots.<br />
